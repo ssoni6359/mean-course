@@ -1,0 +1,14 @@
+mat-form-field {
+    display: block;
+    margin: 1rem 1rem 0 1rem;
+}
+
+button {
+    margin: 0 0 1rem 1rem;
+    width: 15%;
+}
+
+/* :host ::ng-deep mat-card {
+    width: 80%;
+    margin: auto;
+} */
